@@ -10,7 +10,10 @@ import asyncio
 from sqlalchemy import Column, Integer, Boolean, String, ForeignKey, UniqueConstraint, func
 
 
-from sample_config import Config
+if bool(os.environ.get("WEBHOOK", False)):
+    from sample_config import Config
+else:
+    from config import Config
 
 
 def start() -> scoped_session:
@@ -60,4 +63,4 @@ async def thumb(id):
         t = SESSION.query(Thumbnail).get(id)
         return t
     finally:
-        SESSION.stop()
+        SESSION.close()
