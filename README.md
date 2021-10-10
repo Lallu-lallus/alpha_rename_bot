@@ -1,4 +1,4 @@
-# - Modified version of[file rename bot]
+# - ALPHA_RENAME_BOT
 
 <p align="center">
   <a href="https://github.com/Lallu-lallus/alpha_rename_bot/stargazers">
