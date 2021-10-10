@@ -47,9 +47,9 @@ async def help_user(bot, update):
                return
         except UserNotParticipant:
             await update.reply_text(
-                text="**Due To The Huge Traffic Only Channel Members Can Use This Bot Means You Need To Join The Below Mentioned Channel Before Using Me! **",
+                text="**Due To The Huge Traffic Only Group Members Can Use This Bot Means You Need To Join The Below Mentioned Group Before Using Me! **",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Join My Group", url=f"https://t.me/unknownground57")]
               ])
             )
             return
@@ -88,9 +88,9 @@ async def start_me(bot, update):
                return
         except UserNotParticipant:
             await update.reply_text(
-                text="**Due To The Huge Traffic Only Channel Members Can Use This Bot Means You Need To Join The Below Mentioned Channel Before Using Me! **",
+                text="**Due To The Huge Traffic Only Group Members Can Use This Bot Means You Need To Join The Below Mentioned Group Before Using Me! **",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Join My Group", url=f"https://t.me/unknownground57")]
               ])
             )
             return
@@ -102,7 +102,7 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
+                    InlineKeyboardButton('Channel', url='https://unknownground00'),
                     InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
                 ],
                 [
