@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarthzVader/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/Lallu-lallus/alpha_rename_bot)
 
 # Required Strings :-
 
@@ -41,5 +41,5 @@
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/DarthzVader/FileRenameBot)
+* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/Lallu-lallus/alpha_rename_bot)
 * [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
