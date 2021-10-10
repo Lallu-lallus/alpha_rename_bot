@@ -60,4 +60,4 @@ async def get_caption(id):
         caption = SESSION.query(custom_caption).get(id)
         return caption
     finally:
-        SESSION.close()
+        SESSION.stop()
