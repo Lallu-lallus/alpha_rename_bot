@@ -1,13 +1,12 @@
 {
   "name": "ALPHA_RENAME _BOT",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
-
   "keywords": [
     "telegram",
     "best",
     "open",
     "source",
-    "Rename",
+    "Rename"
   ],
   "success_url": "https://t.me/rename1robot",
   "website": "https://github.com/Lallu-lallus/alpha_rename_bot",
