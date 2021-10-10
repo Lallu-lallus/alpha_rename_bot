@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lallu-lallus/alpha_rename_bot/stargazers">
-    <img src="https://github.com/Lallu-lallus/alpha_rename_bot?style=social">
+    <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
 
   </a>
   
