@@ -1,6 +1,7 @@
 {
   "name": "ALPHA_RENAME _BOT",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
+
   "keywords": [
     "telegram",
     "best",
@@ -50,7 +51,7 @@
       "description": "chunk size that should be used with requests",
       "value": "128",
       "required": false
-    },
+    }
   },
   "addons": [
     {
