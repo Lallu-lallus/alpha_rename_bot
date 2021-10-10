@@ -1,7 +1,7 @@
 # - ALPHA_RENAME_BOT
 
 <p align="center">
-  <a href="https://github.com/Lallu-lallus/alpha_rename_bot/stargazers">
+  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
     <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
 
   </a>
