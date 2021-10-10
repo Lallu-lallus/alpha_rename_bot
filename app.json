@@ -50,7 +50,7 @@
       "description": "chunk size that should be used with requests",
       "value": "128",
       "required": false
-    }
+    },
   },
   "addons": [
     {
