@@ -37,6 +37,10 @@
       "value": "",
       "required": false
     },
+    "DB_URL": {
+      "description":"db url from mongo db cluster
+      "value": "",
+    }
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
       "value": "128",
